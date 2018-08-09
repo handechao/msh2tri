@@ -13,7 +13,6 @@ LFLAGS= $(PRELFLAGS) -L$L -lsu -lpar -lcwp -lm $(POSTLFLAGS)
 
 
 PROGS =	\
-        $B/genmaterial \
 	$B/msh2tri
 
 
